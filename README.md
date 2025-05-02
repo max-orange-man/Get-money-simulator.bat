@@ -1,5 +1,5 @@
 # Get money simulator.bat
-A simple simulator of getting money inside a Batch file.<br>
+A simple getting money simulator Batch script.<br>
 <b>Warning: keep the 'data' folder in the same folder with 'Get money simulator.bat'.</b><br>
 
 ## Settings
