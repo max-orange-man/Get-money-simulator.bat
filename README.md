@@ -1,6 +1,6 @@
 # Get money simulator.bat
 A simple getting money simulator Batch script.<br>
-<b>Warning: keep the 'data' folder in the same folder with 'Get money simulator.bat'.</b><br>
+<b>Warning: keep the "data" folder in one folder with "Get money simulator.bat".</b><br>
 
 ## Settings
 You can change console text color by pressing 2 in the main menu.<br>
