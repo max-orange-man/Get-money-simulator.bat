@@ -10,7 +10,7 @@ Press 1 in the main menu to play.<br>
 Then, press 1 to get money and 2 to increase the amount of money you get (the cost will increase every time you buy an upgrade).<br>
 
 ## Progress save
-Your progress is saved automatically every time you get or lose money. You can find the save files in the 'data' folder.<br>
+Your progress is saved automatically every time you get or lose money. The save files are in the "data" folder.<br>
 
 ## Deleting progress
 Instead of deleting the save files, you can press 3 in the main menu and then press 1 to reset your progress.
